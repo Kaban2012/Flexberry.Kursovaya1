@@ -1,0 +1,50 @@
+﻿{
+  "applicationCaption": "Kursovaya",
+  "applicationTitle": "Kursovaya",
+  "items": [
+    {
+      "link": null,
+      "menuName": "kursovaya",
+      "caption": "Kursovaya",
+      "title": "Kursovaya",
+      "children": [
+        {
+          "link": "i-i-s-kursovaya-филиал-l",
+          "menuName": null,
+          "caption": "Филиал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-ответственный-l",
+          "menuName": null,
+          "caption": "Ответственный",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-пользователь-l",
+          "menuName": null,
+          "caption": "Пользователь",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-модель-l",
+          "menuName": null,
+          "caption": "Модель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-kursovaya-тип-l",
+          "menuName": null,
+          "caption": "Тип",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
